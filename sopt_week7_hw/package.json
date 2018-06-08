@@ -1,5 +1,5 @@
 {
-  "name": "week5_homework",
+  "name": "sopt_week7_hw",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "NohYujeong <shdbwjd0326@naver.com>",
@@ -12,11 +12,10 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "bootstrap-vue": "^2.0.0-rc.11",
-    "cors": "^2.8.4",
-    "es6-promise": "^4.2.4",
     "vue": "^2.5.2",
+    "vue-cookies": "^1.5.6",
     "vue-router": "^3.0.1",
+    "vuetify": "^1.0.19",
     "vuex": "^3.0.1"
   },
   "devDependencies": {

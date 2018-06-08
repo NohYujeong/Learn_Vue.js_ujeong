@@ -1,5 +1,4 @@
 'use strict'
-require('es6-promise/auto')
 const path = require('path')
 const utils = require('./utils')
 const config = require('../config')
